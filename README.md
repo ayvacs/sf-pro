@@ -12,7 +12,10 @@ You can download the font files or use them in any of your web pages for free.
   <b>Links</b>
 
   <a href="https://github.com/frogweezer/sf-pro/tree/main/sf-pro">SF Pro</a>
+
   <a href="https://github.com/frogweezer/sf-pro/tree/main/sf-pro-text">SF Pro Text</a>
+
   <a href="https://github.com/frogweezer/sf-pro/tree/main/sf-pro-rounded">SF Pro Rounded</a>
+  
   <a href="https://github.com/frogweezer/sf-pro/tree/main/sf-pro-display">SF Pro Display</a>
 </div>
