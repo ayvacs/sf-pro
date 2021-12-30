@@ -1,4 +1,4 @@
-<img alt="Example screenshot" src="https://raw.githubusercontent.com/frogweezer/sf-pro/main/src/example.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img alt="Example screenshot" src="https://raw.githubusercontent.com/frogweezer/sf-pro/main/.src/example.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 # SF Pro
 
